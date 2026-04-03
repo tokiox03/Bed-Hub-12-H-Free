@@ -1,6 +1,6 @@
 local allowedUser = "BedHub"
 
 if game.Players.LocalPlayer.Name ~= allowedUser then
-    game.Players.LocalPlayer:Kick("Du darfst dieses Script nicht benutzen.")
+    game.Players.LocalPlayer:Kick("Free Time Over .gg/bedhub to buy.")
     return
 end
